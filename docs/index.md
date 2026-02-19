@@ -27,12 +27,12 @@ Clustering methods used:
 
 #### GMM – Cluster Alignment
 <p align="center">
-  <img src="../outputs/GMM/gmm_crosscorrelation_alignment.png" width="700">
+  <img src="unsupervised-learning/outputs/GMM/gmm_crosscorrelation_alignment.png" width="700">
 </p>
 
 #### K-means – Cluster Alignment
 <p align="center">
-  <img src="../outputs/K-means/kmeans_crosscorrelation_alignment.png" width="700">
+  <img src="unsupervised-learning/outputs/K-means/kmeans_crosscorrelation_alignment.png" width="700">
 </p>
 
 ---
@@ -41,12 +41,12 @@ Clustering methods used:
 
 #### GMM
 <p align="center">
-  <img src="../outputs/GMM/gmm_mean_sd.png" width="700">
+  <img src="unsupervised-learning/outputs/GMM/gmm_mean_sd.png" width="700">
 </p>
 
 #### K-means
 <p align="center">
-  <img src="../outputs/K-means/kmeans_mean_sd.png" width="700">
+  <img src="unsupervised-learning/outputs/K-means/kmeans_mean_sd.png" width="700">
 </p>
 
 ---
@@ -55,13 +55,13 @@ Clustering methods used:
 
 #### GMM vs ESA
 <p align="center">
-  <img src="../outputs/GMM/gmm_confusion_matrix.png" width="600">
+  <img src="unsupervised-learning/outputs/GMM/gmm_confusion_matrix.png" width="600">
 </p>
 
 
 #### K-means vs ESA
 <p align="center">
-  <img src="../outputs/K-means/kmeans_confusion_matrix.png" width="600">
+  <img src="unsupervised-learning/outputs/K-means/kmeans_confusion_matrix.png" width="600">
 </p>
 
 
