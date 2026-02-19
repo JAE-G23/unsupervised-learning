@@ -122,8 +122,10 @@ These features provide a compact description of waveform shape and amplitude cha
 
 ---
 
-## Getting Started
+## Getting Started  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JAE-G23/unsupervised-learning/blob/main/notebooks/Week4_Unsupervised_Learning_Methods.ipynb)
 All experiments were conducted using **Google Colab**, which provides a cloud-based Jupyter notebook environment.
+
+
 
 This setup ensures reproducibility without requiring local hardware configuration. Users can run the notebook directly in the browser after mounting Google Drive and adjusting file paths to match their data location.
 
