@@ -75,6 +75,5 @@ Clustering methods used:
 
 ## Repository
 
-- GitHub repository: https://github.com/JAE-G23/unsupervised-learning  
-- Full documentation and methods: see `README.md`
-
+- [GitHub Repository](https://github.com/JAE-G23/unsupervised-learning)
+- [Full documentation and methods (README)](../README.md)
