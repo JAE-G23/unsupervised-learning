@@ -172,3 +172,5 @@ James Ge - zcfbyge@ucl.ac.uk
 
 1. CPOM UCL GEOL0069 AI4EO: Unit 2 — Unsupervised Learning Methods.* Available at: https://cpomucl.github.io/GEOL0069-AI4EO/Unit_2_Unsupervised_Learning_Methods_updated.html (Accessed: 18 February 2026).
 2. MacQueen, J. (1967). Some methods for classification and analysis of multivariate observations. Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, 1, 281–297.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
