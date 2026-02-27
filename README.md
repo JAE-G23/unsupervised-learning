@@ -168,6 +168,7 @@ The content represents my personal academic work and understanding. It is not an
 ## 📬Contact
 James Ge - zcfbyge@ucl.ac.uk
 
+
 ## 📚 References
 
 1. CPOM UCL GEOL0069 AI4EO: Unit 2 — Unsupervised Learning Methods.* Available at: https://cpomucl.github.io/GEOL0069-AI4EO/Unit_2_Unsupervised_Learning_Methods_updated.html (Accessed: 18 February 2026).
